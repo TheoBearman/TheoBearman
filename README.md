@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHUb profile.
+Welcome to my GitHub profile.
 
 <!--
 **TheoBearman/TheoBearman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
