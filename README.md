@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my GitHUb profile.
+
+🌱 I’m currently learning Python
+🎵I'm currently listening to:
+<a href="https://now-playing-profile-five.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-five.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 <!--
 **TheoBearman/TheoBearman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://now-playing-profile-five.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-five.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
