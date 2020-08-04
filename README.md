@@ -6,6 +6,7 @@ Welcome to my GitHub profile.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TheoBearman&show_icons=true&count_private=true" />
 </a>
 <br>
+<br>
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBearman&show_icons=true&count_private=true" />
 </a>
