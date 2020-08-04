@@ -14,6 +14,9 @@ Welcome to my GitHub profile.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <div>
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBearman&show_icons=true&count_private=true" />
