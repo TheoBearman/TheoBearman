@@ -2,14 +2,16 @@
 
 Welcome to my GitHub profile.
 
+<div>
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TheoBearman&show_icons=true&count_private=true" />
 </a>
-<br>
-<br>
+</div>
+<div>
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBearman&show_icons=true&count_private=true" />
 </a>
+</div>
 
 <!--
 **TheoBearman/TheoBearman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
